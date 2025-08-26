@@ -18,10 +18,10 @@ My approach: **manual exploratory testing and UAT** to discover real risks, plus
 ---
 
 ## 📂 Featured Repositories
-- [QA Manual Exploratory](https://github.com/lonnynarvaez/qa-manual-exploratory) — charters, checklists, and bug reports.  
-- [BDD Behave Skeleton](https://github.com/lonnynarvaez/qa-bdd-behave-skeleton) — Behave + PageActions (business-readable).  
-- [Playwright Smoke](https://github.com/lonnynarvaez/qa-playwright-smoke) — fast and stable smoke test.  
-- [API Pytest](https://github.com/lonnynarvaez/qa-api-pytest) — simple contract tests with requests.  
+- [QA Manual Exploratory](https://github.com/lonnynarvaezqa/qa-manual-exploratory) — charters, checklists, and bug reports.  
+- [BDD Behave Skeleton](https://github.com/lonnynarvaezqa/qa-bdd-behave-skeleton) — Behave + PageActions (business-readable).  
+- [Playwright Smoke](https://github.com/lonnynarvaezqa/qa-playwright-smoke) — fast and stable smoke test.  
+- [API Pytest](https://github.com/lonnynarvaezqa/qa-api-pytest) — simple contract tests with requests.  
 
 ---
 
