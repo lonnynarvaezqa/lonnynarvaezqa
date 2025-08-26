@@ -33,7 +33,11 @@ My approach: **manual exploratory testing and UAT** to discover real risks, plus
 ---
 
 ## ⭐ Licenses and certifications
+
 ![Accredited Software Testing Fundamentals Certification (AICS® ASTFC)](https://badgr.com/public/assertions/c83lPN2LQdmgJa_QSvBcTQ)
+
 ![Accredited Scrum Fundamentals Certification (AICS® ASFC)](https://badgr.com/public/assertions/gzt_h35mRcCZiN0jvuRYJg)
+
 ![Tester](https://capacitateparaelempleo.org/verifica/4686db65-f687-418b-9ab9-f91c949e57ff/dada7e82-0e84-42b5-99bd-a5ae49b9069b)
+
 ![Técnico en redes de datos](https://capacitateparaelempleo.org/verifica/4686db65-f687-418b-9ab9-f91c949e57ff/32e7e5cd-5f70-44ac-a3ce-3d37c4eb0832)
