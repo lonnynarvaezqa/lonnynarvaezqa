@@ -4,7 +4,7 @@
 
 🚀 **Manual-first QA with Automation in parallel**  
 I turn “I hope it works” into **confidence to release**.  
-My approach: **manual exploratory testing and UAT** to discover real risks, plus **lightweight automation (Python/Behave, Playwright, Appium)** to protect repetitive flows and speed up feedback.
+My approach: **manual exploratory testing and UAT** to discover real risks, plus **lightweight automation** to protect repetitive flows and speed up feedback.
 
 ---
 
