@@ -18,6 +18,7 @@ My approach: **manual exploratory testing and UAT** to discover real risks, plus
 ---
 
 ## 📂 Featured Repositories
+- [Automation Framework Python/Playwright](https://github.com/lonnynarvaezqa/python-playwright-bdd-framework) - Framework built with Python, Playwright, and the Page Object Model (POM) pattern.
 - [Test Plan Example](https://github.com/lonnynarvaezqa/QA-PAYMENT-FUNNEL/blob/main/docs/TestPlan.md) — Test Plan, Test report, and Test cases.  
 - [QA Manual Exploratory](https://github.com/lonnynarvaezqa/qa-manual-exploratory) — charters, checklists, and bug reports.  
 - [BDD Behave Skeleton](https://github.com/lonnynarvaezqa/qa-bdd-behave-skeleton) — Behave + PageActions (business-readable).  
