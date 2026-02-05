@@ -18,6 +18,9 @@ My approach: **manual exploratory testing and UAT** to discover real risks, plus
 ---
 
 ## 📂 Featured Repositories
+
+- [LoanPro SDET Coding Challenge](https://github.com/lonnynarvaezqa/loanpro-sdet-challenge) — SDET coding challenge focused on test strategy, bug analysis, and automated testing mindset for a CLI calculator application.
+- [Eden PACS QA Challenge](https://github.com/lonnynarvaezqa/eden-pacs-qa-challenge) — QA technical challenge covering test planning, exploratory testing, bug reporting, and validation of healthcare imaging workflows.
 - [Automation Framework Python/Playwright](https://github.com/lonnynarvaezqa/python-playwright-bdd-framework) - Framework built with Python, Playwright, and the Page Object Model (POM) pattern.
 - [Miko Mini Beta Testing Program Participation](https://github.com/lonnynarvaezqa/Miko-Mini-Beta-Testing) - Miko Mini Beta Testing portfolio. Showcases my QA methodology, functional and AI test case planning, and the feedback process that influenced product evolution.
 - [Test Plan Example](https://github.com/lonnynarvaezqa/QA-PAYMENT-FUNNEL/blob/main/docs/TestPlan.md) — Test Plan, Test report, and Test cases.  
