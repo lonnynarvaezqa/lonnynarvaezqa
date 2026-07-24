@@ -6,15 +6,14 @@ Helping SaaS teams release software with confidence.
 I turn “I hope it works” into **confidence to release**.  
 My approach: **manual exploratory testing and UAT** to discover real risks, plus **lightweight automation** to protect repetitive flows and speed up feedback.
 
-![Senior QA Automation Consultant](https://img.shields.io/badge/Role-Senior%20QA%20Automation%20Consultant-blue?style=for-the-badge)
-
-![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge)
-
-![Playwright](https://img.shields.io/badge/Playwright-Expert-2EAD33?style=for-the-badge)
-
-![Cypress](https://img.shields.io/badge/Cypress-Advanced-17202C?style=for-the-badge)
-
-![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge)
+[8+ Years]
+[Playwright]
+[Cypress]
+[Python]
+[TypeScript]
+[API Testing]
+[Mobile]
+[Test Lead]
 
 ---
 ## What I help teams achieve
